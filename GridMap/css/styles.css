@@ -1,0 +1,42 @@
+/*#map {*/
+/*    height: 100%;*/
+/*}*/
+/*#action_native {*/
+/*    height: 100%;*/
+/*}*/
+#content{
+    height: 100%;
+    width: 100%;
+}
+.block_input {
+    margin-top: 30px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.checkbox-lg .custom-control-label::before,
+.checkbox-lg .custom-control-label::after {
+    width: 1.55rem;
+    height: 1.55rem;
+}
+
+.checkbox-lg .custom-control-label {
+    padding-top: 3px;
+    padding-left: 6px;
+}
+.block_result {
+    margin-top: 50px;
+}
+#input_date {
+    margin-left: 30px;
+}
+.btn-group {
+    display: inline-block;
+}
+textarea {
+    overflow-y: scroll;
+}
